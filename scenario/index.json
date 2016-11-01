@@ -1,0 +1,18 @@
+{
+    "title": "Launch Kubernetes Cluster",
+    "description": "Learn how to launch a Kubernetes cluster including DNS and Kube UI",
+    "difficulty": "beginner",
+    "time": "10-15 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1 - rustup",
+                "text": "step01.md"
+            }
+        ]
+    },
+    "environment": {
+        "uilayout": "terminal",
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    }
+}

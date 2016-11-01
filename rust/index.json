@@ -24,7 +24,6 @@
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nBegin with `cargo run`\u001b[m\r\n"
     },
     "backend": {
-        "port": 8080,
-        "imageid": "debian"
+        "imageid": "debian:8"
 }
 }
